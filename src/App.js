@@ -15,7 +15,7 @@ function App() {
         <FullName name={name} lastName={lastName} />
         <Bio />
         <Profession />
-       
+        
       </header>
     </div>
   );
